@@ -1,11 +1,4 @@
-/**
- * Author:    Harsh Mittal
- * Created:   10.07.2021
- * Github: www.github.com/harshmittal2210
- * Email: harshmittal2210@gmail.com
- *
- * (c) Copyright by Harsh Mittal.
- **/
+
 
 // Include 
 #include <Wire.h>
